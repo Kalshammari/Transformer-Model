@@ -1,5 +1,5 @@
 # Transformer Model for Multivariate Time Series Classification: A Case Study of  Solar Flare Prediction
- The code is an implementation of the Attention-based and Transformer Model for Multivariate Time Series Classification. It is implemented using Tensorflow. 
+ The code is an implementation of the ATransformer Model for Multivariate Time Series Classification: A Case Study of  Solar Flare Prediction. It is implemented using Tensorflow. 
 
 **Overview:**
 This repository provides the implementation of the Transformer-based MVTS Classification Framework. 
