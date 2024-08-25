@@ -6,8 +6,11 @@ This repository provides the implementation of the Transformer-based MVTS Classi
 The repository has:
 The dataset can be downloaded from this link:
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EBCFKM
+
 Models/ contains the implementation of the Attention-based and Transformer Model for Multivariate Time Series Classification.
+
 Baselines/ contains the baselines implementation and data preprocessing.
+
 requirements.txt contains the libraries and tools needed to execute the models.
 
 
