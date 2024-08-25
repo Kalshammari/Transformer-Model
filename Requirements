@@ -1,0 +1,6 @@
+numpy version: 1.21.6
+matplotlib version: 1.21.6
+pandas version: 1.3.5
+pydot version: 1.3.0
+tensorflow version 2.8.2
+torch version: 1.11.0+cu113
